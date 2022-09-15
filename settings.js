@@ -52,8 +52,8 @@ global.ownertag = '+94740135850' //your tag number
 global.botname = '𝐊𝐌𝐊 - 𝐁𝐎𝐓' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝐊𝐌𝐊 𝐁𝐎𝐓" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.dragonemoji = '👉' // Menu emoji
+global.footer = '[ ◉ 𝐊𝐌𝐊 𝐁𝐎𝐓 ]' //
 
 //database
 global.premium = ['+94740135850'] //ur premium numbers
