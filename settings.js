@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94740135850'] // owner number
-global.ownername = "😎𝐊𝐌𝐊 𝐁𝐎𝐓❯❯" // owner name
+global.vcardowner = ['+94761081292'] // owner number
+global.ownername = "😎𝐊𝐀𝐕𝐈𝐍𝐃𝐔 𝐏𝐀𝐖𝐀𝐍❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,7 +47,7 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94740135850']
+global.owner = ['+94761081292']
 global.ownertag = '+94740135850' //your tag number
 global.botname = '𝐊𝐌𝐊 - 𝐁𝐎𝐓' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
